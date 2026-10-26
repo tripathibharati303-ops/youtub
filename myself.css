@@ -1,0 +1,80 @@
+
+
+body{
+  background-color: black;
+}
+.stara{
+  margin-top: 0%;
+  height:200px;
+  background-color: rgb(3, 72, 54);
+}
+.pt{
+  margin-top: 0%;
+  font-size: 100px;
+  font-style: oblique;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: rgb(33, 101, 72);
+  align-items:flex-end;
+    display: flex;
+}
+.pt:hover{
+  color: aqua;
+}
+
+
+
+
+
+.ha{
+      margin-top: 0px;
+       background-color: rgb(23, 6, 27);
+       height: auto;
+       width: auto;
+}
+.t{
+  font-size: 80px;
+  color:chartreuse;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+.name{
+  margin-right: 0%;
+ margin-top: 0px;
+  color: rgb(248, 88, 210);
+  font-size:150px;
+  flex-direction:initial;
+  font-style: oblique;
+  flex-shrink: inherit;
+  font-display: auto;
+  flex: content;
+  flex-shrink: inherit;
+  forced-color-adjust: auto;
+   font-optical-sizing: initial;
+
+}
+.name:hover{
+  color: rgb(204, 0, 255);
+}
+.half{
+  margin-top:2px;
+  background-color: gray;
+  height: auto;
+  width: auto;
+
+}
+.la{
+  margin-top: 2px;
+  font-size: 80px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  align-items:center;
+    display: flex;
+}
+.h{
+  font-size: 90px;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin-top: 0%;
+}
